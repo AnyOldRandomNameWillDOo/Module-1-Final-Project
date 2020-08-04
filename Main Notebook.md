@@ -12113,9 +12113,10 @@ Here are the three questions I asked and the recommendations based on the analys
 
 Here are some further aspects that I would have liked to look into:
 1. How does MPAA rating affect profits?
-2. Does the money made during the domestic opening have an impact on continued success of a movie?
+2. Does the money made during the opening weekend have an impact on continued success of a movie? And how could you maximize opening weekend profits?
 3. Is it better to focus on having a high percent of domestic or foreign?
 
 Here are some further aspects that I would have liked to look into that would require more gathering of data:
-4. Does winning an award increase a movie's earnings? And how could you maximize your chances of winning?
+4. Does winning an award increase a movie's earnings? Does winning awards increase future movie earnings from the same studio? And how could you maximize your chances of winning?
 5. What are the factors that make for a successful movie franchise?
+6. How is the pandemic changing movie viewing? Will the changes be temporary or will the methodology on how to make profitable movies be changed from now on?
